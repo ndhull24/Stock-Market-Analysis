@@ -1,4 +1,3 @@
-Overview
 The Stock Market Analysis and Prediction project focuses on analyzing historical stock data to identify trends, visualize patterns, and predict future stock prices using machine learning models. This project leverages various technical indicators and prediction techniques to assist in making informed investment decisions.
 
 Objectives
